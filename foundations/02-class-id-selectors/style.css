@@ -1,0 +1,16 @@
+p {
+    background-color: pink;
+    font-family: "Verdana", "Dejavu sans", sans-serif;
+}
+#n2 {
+    color: blue;
+    font-size: 36px;
+}
+.n3{
+    font-size: 24px;
+}
+#n4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
